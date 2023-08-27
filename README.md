@@ -1,6 +1,6 @@
 ### Hi, I'm Alina 👋🏻👩🏻‍💻
 
-#### I am a Beginner frontend developer.😊
+#### I am a frontend developer.😊
 
 I enjoy creating functional and visually appealing things for users. I really enjoy learning new languages and technologies.
 📲💻💡
